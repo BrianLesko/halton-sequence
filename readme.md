@@ -1,6 +1,6 @@
 
-# RRT
-This code implements Real Time RRT Tree search in a low code UI. This project is written in [Pure Python]() in under 50 lines of code. Created by Brian Lesko for Learning Purposes.
+# Halton Sequence
+This code implements real time approximately uniform configuration space sampling using the [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 
 &nbsp;
 
@@ -30,16 +30,6 @@ This will start the local Streamlit server, and you can access the chatbot by op
 
 &nbsp;
 
-## How it Works
-
-The app as follows:
-1. 
-2. 
-3. 
-4. 
-
-&nbsp;
-
 ## Repository Structure
 ```
 repository/
@@ -57,10 +47,8 @@ repository/
 
 ## Topics 
 ```
-Python | Streamlit | Git | Low Code UI | control | real-time | real time control
-External device | HIDapi | decode bytes | PS5 | Sony | Dualsense | communication | Remote control 
-custom classes
-Self taught coding | Mechanical engineer | Robotics engineer
+Python | Streamlit | Git | Low Code UI | real-time | sample space | sequence | path planning
+Mechanical engineer | Robotics engineer
 ```
 &nbsp;
 
