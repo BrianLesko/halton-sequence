@@ -4,7 +4,7 @@ This code implements real time approximately uniform configuration space samplin
 
 &nbsp;
 
-<div align="center"><img src="docs/preview.gif" width="800"></div>
+<div align="center"><img src="docs/preview.png" width="800"></div>
 
 &nbsp;
 

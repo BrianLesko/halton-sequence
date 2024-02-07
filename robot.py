@@ -3,7 +3,7 @@
 # This code supports the animation of jointed robots
 
 import numpy as np 
-import modern_robotics as mr
+#import modern_robotics as mr
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator, AutoMinorLocator
 
